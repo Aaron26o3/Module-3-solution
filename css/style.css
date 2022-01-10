@@ -16,7 +16,7 @@ color: #61122F;
 
 .center{
   width: 90%;
-  background-color: ;
+  background-color:lightgoldenrodyellow ;
 
 }
 
@@ -47,6 +47,7 @@ font-size: 30px;
 
 #container{
   position: relative;
+  background-color: lightslategray;
 }
 
 #p1{
